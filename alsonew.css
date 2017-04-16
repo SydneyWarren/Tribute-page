@@ -1,0 +1,72 @@
+body {
+	padding-top: 58px;
+	text-align: center;
+	position: relative;
+}
+
+#about {
+	background: url(https://wallpaperscraft.com/image/bar_cafe_chairs_tables_interior_style_39215_1920x1080.jpg )
+	50% 0 no-repeat fixed; min-height: 800px;
+	height: 800px;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1920px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+#contact {
+	background: url(http://kingofwallpapers.com/city-background/city-background-005.jpg)
+	50% 0 no-repeat fixed; min-height: 800px;
+	padding-top: 100px;
+	height: 800px;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1920px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+#navbar2 {
+	background-color: black;
+}
+
+
+#navbar {
+	padding-top: 4px;
+	background-color: black;
+}
+
+p {    
+ 	font-family: 'Space Mono', monospace;
+    font-size: 18px;     
+    color: black;     
+    text-align: center;
+      padding-top: 2px;     
+    background-color: lightgrey;
+     opacity: 0.5;
+    filter: alpha(opacity=50);
+    border-radius: 8px;
+}
+
+
+  .imgwrapper {
+   padding-top: 75px;
+   display: block;
+   margin: auto;
+   width: 50%;
+}
+
+
+
+img {
+    border-radius: 8px;
+    padding-top: 100px;
+}
+
+  .paragraphwrapper {
+      padding-right: 450px;     
+      padding-left: 450px;
+     }
